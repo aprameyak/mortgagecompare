@@ -7,3 +7,7 @@ Mortgage Comparison Auditor
 ```bash
 npm install && npm start
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
